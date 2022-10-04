@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <Folder Include="Categories\Queries\GetCategory\" />
-    <Folder Include="Products\" />
   </ItemGroup>
 
   <ItemGroup>
